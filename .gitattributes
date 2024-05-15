@@ -4,3 +4,4 @@ spotify_data_12_20_2023.csv filter=lfs diff=lfs merge=lfs -text
 spotify_features_data_2023.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
+flowchart.png filter=lfs diff=lfs merge=lfs -text
